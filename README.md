@@ -66,7 +66,6 @@ spring.jpa.hibernate.ddl-auto=update
     }
   ]
 }
-```
 
 # Backend
 

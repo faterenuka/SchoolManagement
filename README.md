@@ -1,4 +1,4 @@
-# E-commerce Application API
+# School Management Application API
 This is an Individual project, I have worked on rest API service for an e-commerse Application in around 6-7 days. This service provides users to register and login, view/add products, and add to cart & order.
 
 ## Entity Relationship Diagram
@@ -146,20 +146,14 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## Swagger UI
 
-## Customer-Controller
-[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/CustomerController.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/CustomerController.png?raw=true)
+## Student-Controller
+[![SwaggerUI](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/StudentController.png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/StudentController.png?raw=true)
 
-## User-Controller
+## Subject-Controller
 [![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/UserLoginController.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/UserLoginController.png?raw=true)
 
-## Product-Controller
+## Teacher-Controller
 [![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Product.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Product.png?raw=true)
 
-## Cart-Controller
-[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Cart.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Cart.png?raw=true)
-
-## Order-Controller
-[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Orders.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Orders.png?raw=true)
-
-## Thank You! Your Order is Placed : )
-[![SwaggerUI](https://en.pimg.jp/077/437/469/1/77437469.jpg)](https://en.pimg.jp/077/437/469/1/77437469.jpg)
+## Thank You!for your time :)
+[![SwaggerUI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fallfreethankyounotes.com%2Fthank-you-gifs%2F&psig=AOvVaw0Gu6DCvjbJrWITk8F9JQAP&ust=1682416211743000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJi0gfiewv4CFQAAAAAdAAAAABAJ)

@@ -150,10 +150,10 @@ spring.jpa.hibernate.ddl-auto=update
 [![SwaggerUI](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/StudentController.png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/StudentController.png?raw=true)
 
 ## Subject-Controller
-[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/UserLoginController.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/UserLoginController.png?raw=true)
+[![SwaggerUI](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/SubjectController.png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/SubjectController.png?raw=true)
 
 ## Teacher-Controller
-[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Product.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Product.png?raw=true)
+[![SwaggerUI](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/TeacherController.png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/TeacherController.png?raw=true)
 
 ## Thank You!for your time :)
-[![SwaggerUI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fallfreethankyounotes.com%2Fthank-you-gifs%2F&psig=AOvVaw0Gu6DCvjbJrWITk8F9JQAP&ust=1682416211743000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJi0gfiewv4CFQAAAAAdAAAAABAJ)
+[![SwaggerUI](https://allfreethankyounotes.com/wp-content/uploads/2021/08/all-free-thank-you-gif-6.gif)

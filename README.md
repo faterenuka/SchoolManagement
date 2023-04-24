@@ -1,5 +1,5 @@
 # School Management Application API
-This is an Individual project, I have worked on rest API service for an e-commerse Application in around 6-7 days. This service provides users to register and login, view/add products, and add to cart & order.
+This is an Individual project, I have worked on rest API service for an School Management Application in around 6-7 days. This service provides users to know the relation between Students and Teachers.
 
 ## Entity Relationship Diagram
 
@@ -7,18 +7,14 @@ This is an Individual project, I have worked on rest API service for an e-commer
 
 
 # Functionalities
--   User can register/login
--   See all products
--   Find products by category
--   Add to cart/edit into the cart
--   Place Order
+-  Students Subject relationship
+-  Teacher Subject Relationship
 
 
 ## Backend Work
 -  Proper Exception Handling
 -  Proper Input Validation
--   Data Stored in the database(mySQL)
--   SignUp and Login
+-   Data Stored in the database(MySQL)
 
 ## Installation and Run
 -  You can clone this repo and start the serve on localhost

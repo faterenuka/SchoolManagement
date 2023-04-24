@@ -1,20 +1,19 @@
 # School Management Application API
-This is an Individual project, I have worked on rest API service for an School Management Application in around 6-7 days. This service provides users to know the relation between Students and Teachers.
+This is an Individual project, I have worked on rest API service for an School Management Application in around 6-7 days. This service provides users to map Teacher and Students with respective Courses.
 
 ## Entity Relationship Diagram
 
-[![ER Diagram](https://github.com/faterenuka/e-commerce-app/blob/main/Images/ER%20Diagram.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/ER%20Diagram.png?raw=true)
+[![ER Diagram](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/ER%20diagram%20(2).png?raw=true)](https://github.com/faterenuka/SchoolManagement/blob/main/ControllerImages/ER%20diagram%20(2).png?raw=true)
 
 
 # Functionalities
--  Students Subject relationship
--  Teacher Subject Relationship
-
+-  Students are able to register with Courses.
+-  Management can assign Teacher with Courses.
 
 ## Backend Work
 -  Proper Exception Handling
--  Proper Input Validation
--   Data Stored in the database(MySQL)
+-  Use DTO for APIs.
+-  Data Stored in the database(MySQL)
 
 ## Installation and Run
 -  You can clone this repo and start the serve on localhost
@@ -41,28 +40,35 @@ spring.jpa.hibernate.ddl-auto=update
 {
   "id": 6,
   "name": "Swapnil",
-  "subjects": [
+  "email": "swapnil@mail.com",
+  "mobile_number":7865432109,
+  "courses": [
     {
       "id": 5,
       "name": "maths"
+      "fees":6700,
+      "duration":"1 year"
     }
   ]
 }
-
+```
 ### Teacher
 ```
 {
   "id": 7,
-  "first_name": "Renuka",
-  "last_name": "Fate",
+  "name": "Renuka",
+  "email":"renuka@gmail.com",
+  "yearOfExperience":3,
   "subjects": [
     {
       "id": 5,
-      "name": "maths"
+      "name": "maths",
+      "fees":6700,
+      "duration":"1 year"
     }
   ]
 }
-
+```
 # Backend
 
 ## Swagger UI
